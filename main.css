@@ -1,0 +1,23 @@
+ body {
+     background-image: url("Untitled-1.png");
+     background-repeat: no-repeat;
+     background-color: #cccccc;
+     background-size: cover;
+ }
+ 
+ h3 {
+     color: navy;
+ }
+ 
+ h2 {
+     color: blueviolet;
+ }
+ 
+ .centered-text {
+     text-align: center;
+     margin: 0 auto;
+ }
+ 
+ h1 {
+     color: red;
+ }
